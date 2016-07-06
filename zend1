@@ -1,0 +1,14 @@
+//Zend FrameworkによるWebアプリケーションの作成(準備編)
+
+//Zend FrameworkのインストールZend Frameworkのダウンロードから配備までを説明します。
+
+//開発環境・動作環境
+当サイトのWebアプリケーションは下記の環境で作成、動作確認をしています。
+
+OS:	Windows7 SP1
+統合開発環境:	Eclipse 3.7
+Webサーバ:	Apache 2.2.21 + PHP 5.3.8 ※
+データベースサーバ:	MySQL 5.5.16 ※
+Zend Framework:	Zend Framework 1.11.11 ※
+Webブラウザ:	Firefox 9.0.1, Internet Explorer9
+※ XAMPP(1.7.7)にて一括でインストールしています。
